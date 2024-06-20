@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-UseWCDB/Pods-UseWCDB-frameworks.sh
+${BUILT_PRODUCTS_DIR}/HandyJSON/HandyJSON.framework
+${BUILT_PRODUCTS_DIR}/WCDB.swift/WCDBSwift.framework
+${BUILT_PRODUCTS_DIR}/WCDBOptimizedSQLCipher/sqlcipher.framework

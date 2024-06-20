@@ -1,0 +1,24 @@
+PODS:
+  - HandyJSON (5.0.2)
+  - WCDB.swift (2.1.5):
+    - WCDBOptimizedSQLCipher (= 1.4.4)
+  - WCDBOptimizedSQLCipher (1.4.4)
+
+DEPENDENCIES:
+  - HandyJSON
+  - WCDB.swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - HandyJSON
+    - WCDB.swift
+    - WCDBOptimizedSQLCipher
+
+SPEC CHECKSUMS:
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  WCDB.swift: 175885bda1e00d58baaa0a8f276fa0c03ba62a96
+  WCDBOptimizedSQLCipher: 7f03bb7c94ad164996f0fa87d0f76026f5ab0f92
+
+PODFILE CHECKSUM: b1fa8b563d0cbbb88cbb19357d73249fd3a893c7
+
+COCOAPODS: 1.15.2
